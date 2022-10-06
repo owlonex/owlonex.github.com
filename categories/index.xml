@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on All is well</title>
+    <link>http://imwx.me/categories/</link>
+    <description>Recent content in Categories on All is well</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://imwx.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thought</title>
+      <link>http://imwx.me/categories/thought/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://imwx.me/categories/thought/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
